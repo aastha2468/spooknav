@@ -24,10 +24,10 @@ hr {
     border-top: solid 4px;
 }
 
-.logo{
-    width: 100vw;
-    height: 100vh;
-    position: relative;
+/* where css for the map goes */
+.map{
+ 
+    
 }
 
 li{
