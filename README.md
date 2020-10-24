@@ -32,6 +32,14 @@ Living in big cities growing up, we ourselves had many Halloween nights limited 
 
 ## How it works
 
+spooknav is a web application using the MapBox API. Using spooknav, parents can explore a customized map of the Baltimore area. On the map, they can click on ghost icons to see statistics about sex offenders, gun convictions, and CCTV camera presence in different areas.
+
+To build this safety map, we examined three datasets, a dataset of sex offenders (https://www.dpscs.state.md.us/onlineservs/sor/sor_listings/pdf_name.pdf), a dataset of gun convictions (https://data.baltimorecity.gov/Public-Safety/Gun-Offenders/aivj-4x23), and a dataset of CCTV cameras in the Baltimore area (https://data.baltimorecity.gov/Public-Safety/CCTV-Locations-Obsolete/hdyb-27ak). We preprocessed, cleaned, and read the data, and for the gun and CCTV data, we were able to pull latitude and longitude coordinates. For the sex offender data, we used a MapQuest key to geocode the string addresses into latitude and longitude.
+
+With that data, we created hashmaps tracking number of sex offenders, gun offenders, and cameras up to the third decimal of latitude and longitude (about every 5 minutes walking). We created a comprehensive dataset of latitude and longitudes and their corresponding sex offender, gun offender, and CCTV counts. We also included all latitudes and longitudes in the Baltimore area that didn’t include any data points, or coordinates that were “safe” areas. 
+
+From there, we were able to drop pins on the map to allow users to visualize all three datasets in a one-stop shop, and assess the trick-or-treating safety of any area in Baltimore.
+
 ## Implementation Difficulties
 Previous to the hackathon, none of us had built a map web app before, and two of us had never built any sort of webapp or coded in HTML or CSS before. We entered the project pretty blind to how to make it work, simply because we really believed in the idea. We spent a lot of time researching the Mapbox API, researching how to set up a webapp project, and considering how to incorporate the html and css files. We also struggled a lot with the data. The dataset concerning sex offenders was a PDF, which we had a very hard time translating to a readable format, and it additionally listed offenders by address instead of latitude and longitude. This posed a serious issue in translating that dataset to points in the Mapbox API. We also struggled to set up hosting, because that was another blind spot in our coding experience
 
