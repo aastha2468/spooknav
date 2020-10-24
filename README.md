@@ -1,4 +1,4 @@
-< img src  = "https://github.com/aastha2468/spooknav/blob/main/spooknav.png">
+<img src  = "raw.githubusercontent.com/aastha2468/spooknav/blob/main/spooknav.png">
 
 # spooknav
 Need help to figure what is the safest way 
