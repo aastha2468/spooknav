@@ -1,18 +1,29 @@
 
-
 html {
     scroll-behavior:smooth;
-    font-family: 'Lato',sans-serif;
-}
-
-body{
-    margin: 0;
 }
 
 
 p{
     font-family: 'Lato',sans-serif;
     font-size: 16px;
+    color: #111;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 32px;
+    margin: 0 0 72px;
+    text-align: center;
+}
+
+h2{
+    color: #111;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 275px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
 }
 
 
@@ -21,7 +32,7 @@ hr {
     padding: 0;
     max-width: 250px;
     border: 0;
-    border-top: solid 4px;
+    border-top: solid 10px;
 }
 
 .logo{
@@ -30,12 +41,44 @@ hr {
     position: relative;
 }
 
+.navbar {
+    width: 100%;
+    background-color: #601C75;
+    overflow: auto;
+}
+
+/* Navigation links */
+.navbar a {
+    float: left;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    width: 50%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center; /* If you want the text to be centered */
+}
+
+
 li{
-    margin: 10px 0;
+    margin: 20px 0;
+    font-size: 60px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+
+}
+
+.container.full-width {
+    width: auto;
 }
 
 #about{
     height: 500px;
+}
+
+a{
+    right: 10px;
 }
 
 section {
@@ -61,28 +104,28 @@ section {
     color: #FCA904;
 }
 
-#map { 
-  position: absolute; 
-  top: 100px; 
-  left: 500px;
-  bottom: 0; 
-  width: 50%; 
+#map {
+    position: sticky;
+    top: 100px;
+    left: 500px;
+    bottom: 0;
+    width: 50%;
 }
 #menu {
-  position: absolute;
-  background: #fff;
-  padding: 10px;
-  font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    background: #FFC433;
+    padding: 20px;
+    font-family: 'Quicksand', sans-serif;
 }
 #marker {
-  background-image: url('https://cdn.discordapp.com/attachments/769265620834320385/769614476693340160/Untitled_Artwork_1.png');
-  background-size: cover;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  cursor: pointer;
+    background-image: url('https://cdn.discordapp.com/attachments/769265620834320385/769614476693340160/Untitled_Artwork_1.png');
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
 }
- 
+
 .mapboxgl-popup {
-  max-width: 200px;
+    max-width: 400px;
 }
