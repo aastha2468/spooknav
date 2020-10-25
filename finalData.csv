@@ -380,7 +380,7 @@ latitude,longitude,String,danger
 39.355,-76.699,There is 1 sex offender in this area. ,1
 39.633,-78.761,There is 1 sex offender in this area. ,1
 39.418,-76.366,There is 1 sex offender in this area. ,1
-38.996,-77.0,There is 1 sex offender in this area. ,1
+38.996,-77,There is 1 sex offender in this area. ,1
 39.295,-76.594,There are 3 CCTV cameras in this area. ,0
 39.613,-75.953,There is 1 sex offender in this area. ,1
 39.322,-76.682,There is 1 gun offender in this area. ,1
@@ -3612,7 +3612,7 @@ latitude,longitude,String,danger
 39.318,-76.661,There is 1 gun offender in this area. ,1
 39.473,-76.62,There is 1 gun offender in this area. ,1
 39.333,-76.593,There are 2 gun offenders in this area. ,2
-39.075,-77.0,There is 1 sex offender in this area. ,1
+39.075,-77,There is 1 sex offender in this area. ,1
 39.323,-76.565,There is 1 gun offender in this area. ,1
 39.348,-76.683,There is 1 sex offender in this area. There is 1 gun offender in this area. ,2
 38.783,-76.074,There is 1 sex offender in this area. ,1
@@ -4103,7 +4103,7 @@ latitude,longitude,String,danger
 39.325,-76.712,There is 1 gun offender in this area. ,1
 38.842,-76.989,There are 2 sex offenders in this area. ,2
 39.302,-76.644,There are 2 gun offenders in this area. ,2
-38.961,-77.0,There is 1 sex offender in this area. ,1
+38.961,-77,There is 1 sex offender in this area. ,1
 39.343,-76.677,There is 1 gun offender in this area. ,1
 39.343,-76.609,There is 1 sex offender in this area. ,1
 39.233,-76.602,There is 1 sex offender in this area. ,1
@@ -4992,7 +4992,7 @@ latitude,longitude,String,danger
 39.264,-76.693,There is 1 sex offender in this area. ,1
 39.399,-76.751,There is 1 gun offender in this area. ,1
 39.282,-76.633,There are 2 gun offenders in this area. ,2
-38.972,-77.0,There is 1 sex offender in this area. ,1
+38.972,-77,There is 1 sex offender in this area. ,1
 39.275,-76.836,There is 1 gun offender in this area. ,1
 39.346,-76.563,There is 1 sex offender in this area. ,1
 38.984,-76.287,There is 1 sex offender in this area. ,1
@@ -5439,184 +5439,3 @@ latitude,longitude,String,danger
 39.338,-76.593,There are 2 sex offenders in this area. ,2
 39.295,-76.706,There is 1 gun offender in this area. ,1
 39.209,-76.713,This area has no reported incidents.,0
-39.209,-76.71199999999999,This area has no reported incidents.,0
-39.209,-76.71099999999998,This area has no reported incidents.,0
-39.209,-76.70999999999998,This area has no reported incidents.,0
-39.209,-76.70899999999997,This area has no reported incidents.,0
-39.209,-76.70799999999997,This area has no reported incidents.,0
-39.209,-76.70699999999997,This area has no reported incidents.,0
-39.209,-76.70599999999996,This area has no reported incidents.,0
-39.209,-76.70499999999996,This area has no reported incidents.,0
-39.209,-76.70399999999995,This area has no reported incidents.,0
-39.209,-76.70299999999995,This area has no reported incidents.,0
-39.209,-76.70199999999994,This area has no reported incidents.,0
-39.209,-76.70099999999994,This area has no reported incidents.,0
-39.209,-76.69999999999993,This area has no reported incidents.,0
-39.209,-76.69899999999993,This area has no reported incidents.,0
-39.209,-76.69799999999992,This area has no reported incidents.,0
-39.209,-76.69699999999992,This area has no reported incidents.,0
-39.209,-76.69599999999991,This area has no reported incidents.,0
-39.209,-76.69499999999991,This area has no reported incidents.,0
-39.209,-76.6939999999999,This area has no reported incidents.,0
-39.209,-76.6929999999999,This area has no reported incidents.,0
-39.209,-76.6919999999999,This area has no reported incidents.,0
-39.209,-76.69099999999989,This area has no reported incidents.,0
-39.209,-76.68999999999988,This area has no reported incidents.,0
-39.209,-76.68899999999988,This area has no reported incidents.,0
-39.209,-76.68799999999987,This area has no reported incidents.,0
-39.209,-76.68699999999987,This area has no reported incidents.,0
-39.209,-76.68599999999986,This area has no reported incidents.,0
-39.209,-76.68499999999986,This area has no reported incidents.,0
-39.209,-76.68399999999986,This area has no reported incidents.,0
-39.209,-76.68299999999985,This area has no reported incidents.,0
-39.209,-76.68199999999985,This area has no reported incidents.,0
-39.209,-76.68099999999984,This area has no reported incidents.,0
-39.209,-76.67999999999984,This area has no reported incidents.,0
-39.209,-76.67899999999983,This area has no reported incidents.,0
-39.209,-76.67799999999983,This area has no reported incidents.,0
-39.209,-76.67699999999982,This area has no reported incidents.,0
-39.209,-76.67599999999982,This area has no reported incidents.,0
-39.209,-76.67499999999981,This area has no reported incidents.,0
-39.209,-76.67399999999981,This area has no reported incidents.,0
-39.209,-76.6729999999998,This area has no reported incidents.,0
-39.209,-76.6719999999998,This area has no reported incidents.,0
-39.209,-76.6709999999998,This area has no reported incidents.,0
-39.209,-76.66999999999979,This area has no reported incidents.,0
-39.209,-76.66899999999978,This area has no reported incidents.,0
-39.209,-76.66799999999978,This area has no reported incidents.,0
-39.209,-76.66699999999977,This area has no reported incidents.,0
-39.209,-76.66599999999977,This area has no reported incidents.,0
-39.209,-76.66499999999976,This area has no reported incidents.,0
-39.209,-76.66399999999976,This area has no reported incidents.,0
-39.209,-76.66299999999976,This area has no reported incidents.,0
-39.209,-76.66199999999975,This area has no reported incidents.,0
-39.209,-76.66099999999975,This area has no reported incidents.,0
-39.209,-76.65999999999974,This area has no reported incidents.,0
-39.209,-76.65899999999974,This area has no reported incidents.,0
-39.209,-76.65799999999973,This area has no reported incidents.,0
-39.209,-76.65699999999973,This area has no reported incidents.,0
-39.209,-76.65599999999972,This area has no reported incidents.,0
-39.209,-76.65499999999972,This area has no reported incidents.,0
-39.209,-76.65399999999971,This area has no reported incidents.,0
-39.209,-76.65299999999971,This area has no reported incidents.,0
-39.209,-76.6519999999997,This area has no reported incidents.,0
-39.209,-76.6509999999997,This area has no reported incidents.,0
-39.209,-76.6499999999997,This area has no reported incidents.,0
-39.209,-76.64899999999969,This area has no reported incidents.,0
-39.209,-76.64799999999968,This area has no reported incidents.,0
-39.209,-76.64699999999968,This area has no reported incidents.,0
-39.209,-76.64599999999967,This area has no reported incidents.,0
-39.209,-76.64499999999967,This area has no reported incidents.,0
-39.209,-76.64399999999966,This area has no reported incidents.,0
-39.209,-76.64299999999966,This area has no reported incidents.,0
-39.209,-76.64199999999965,This area has no reported incidents.,0
-39.209,-76.64099999999965,This area has no reported incidents.,0
-39.209,-76.63999999999965,This area has no reported incidents.,0
-39.209,-76.63899999999964,This area has no reported incidents.,0
-39.209,-76.63799999999964,This area has no reported incidents.,0
-39.209,-76.63699999999963,This area has no reported incidents.,0
-39.209,-76.63599999999963,This area has no reported incidents.,0
-39.209,-76.63499999999962,This area has no reported incidents.,0
-39.209,-76.63399999999962,This area has no reported incidents.,0
-39.209,-76.63299999999961,This area has no reported incidents.,0
-39.209,-76.6319999999996,This area has no reported incidents.,0
-39.209,-76.6309999999996,This area has no reported incidents.,0
-39.209,-76.6299999999996,This area has no reported incidents.,0
-39.209,-76.62899999999959,This area has no reported incidents.,0
-39.209,-76.62799999999959,This area has no reported incidents.,0
-39.209,-76.62699999999958,This area has no reported incidents.,0
-39.209,-76.62599999999958,This area has no reported incidents.,0
-39.209,-76.62499999999957,This area has no reported incidents.,0
-39.209,-76.62399999999957,This area has no reported incidents.,0
-39.209,-76.62299999999956,This area has no reported incidents.,0
-39.209,-76.62199999999956,This area has no reported incidents.,0
-39.209,-76.62099999999955,This area has no reported incidents.,0
-39.209,-76.61999999999955,This area has no reported incidents.,0
-39.209,-76.61899999999955,This area has no reported incidents.,0
-39.209,-76.61799999999954,This area has no reported incidents.,0
-39.209,-76.61699999999954,This area has no reported incidents.,0
-39.209,-76.61599999999953,This area has no reported incidents.,0
-39.209,-76.61499999999953,This area has no reported incidents.,0
-39.209,-76.61399999999952,This area has no reported incidents.,0
-39.209,-76.61299999999952,This area has no reported incidents.,0
-39.209,-76.61199999999951,This area has no reported incidents.,0
-39.209,-76.6109999999995,This area has no reported incidents.,0
-39.209,-76.6099999999995,This area has no reported incidents.,0
-39.209,-76.6089999999995,This area has no reported incidents.,0
-39.209,-76.60799999999949,This area has no reported incidents.,0
-39.209,-76.60699999999949,This area has no reported incidents.,0
-39.209,-76.60599999999948,This area has no reported incidents.,0
-39.209,-76.60499999999948,This area has no reported incidents.,0
-39.209,-76.60399999999947,This area has no reported incidents.,0
-39.209,-76.60299999999947,This area has no reported incidents.,0
-39.209,-76.60199999999946,This area has no reported incidents.,0
-39.209,-76.60099999999946,This area has no reported incidents.,0
-39.209,-76.59999999999945,This area has no reported incidents.,0
-39.209,-76.59899999999945,This area has no reported incidents.,0
-39.209,-76.59799999999944,This area has no reported incidents.,0
-39.209,-76.59699999999944,This area has no reported incidents.,0
-39.209,-76.59599999999944,This area has no reported incidents.,0
-39.209,-76.59499999999943,This area has no reported incidents.,0
-39.209,-76.59399999999943,This area has no reported incidents.,0
-39.209,-76.59299999999942,This area has no reported incidents.,0
-39.209,-76.59199999999942,This area has no reported incidents.,0
-39.209,-76.59099999999941,This area has no reported incidents.,0
-39.209,-76.5899999999994,This area has no reported incidents.,0
-39.209,-76.5889999999994,This area has no reported incidents.,0
-39.209,-76.5879999999994,This area has no reported incidents.,0
-39.209,-76.58699999999939,This area has no reported incidents.,0
-39.209,-76.58599999999939,This area has no reported incidents.,0
-39.209,-76.58499999999938,This area has no reported incidents.,0
-39.209,-76.58399999999938,This area has no reported incidents.,0
-39.209,-76.58299999999937,This area has no reported incidents.,0
-39.209,-76.58199999999937,This area has no reported incidents.,0
-39.209,-76.58099999999936,This area has no reported incidents.,0
-39.209,-76.57999999999936,This area has no reported incidents.,0
-39.209,-76.57899999999935,This area has no reported incidents.,0
-39.209,-76.57799999999935,This area has no reported incidents.,0
-39.209,-76.57699999999934,This area has no reported incidents.,0
-39.209,-76.57599999999934,This area has no reported incidents.,0
-39.209,-76.57499999999933,This area has no reported incidents.,0
-39.209,-76.57399999999933,This area has no reported incidents.,0
-39.209,-76.57299999999933,This area has no reported incidents.,0
-39.209,-76.57199999999932,This area has no reported incidents.,0
-39.209,-76.57099999999932,This area has no reported incidents.,0
-39.209,-76.56999999999931,This area has no reported incidents.,0
-39.209,-76.5689999999993,This area has no reported incidents.,0
-39.209,-76.5679999999993,This area has no reported incidents.,0
-39.209,-76.5669999999993,This area has no reported incidents.,0
-39.209,-76.56599999999929,This area has no reported incidents.,0
-39.209,-76.56499999999929,This area has no reported incidents.,0
-39.209,-76.56399999999928,This area has no reported incidents.,0
-39.209,-76.56299999999928,This area has no reported incidents.,0
-39.209,-76.56199999999927,This area has no reported incidents.,0
-39.209,-76.56099999999927,This area has no reported incidents.,0
-39.209,-76.55999999999926,This area has no reported incidents.,0
-39.209,-76.55899999999926,This area has no reported incidents.,0
-39.209,-76.55799999999925,This area has no reported incidents.,0
-39.209,-76.55699999999925,This area has no reported incidents.,0
-39.209,-76.55599999999924,This area has no reported incidents.,0
-39.209,-76.55499999999924,This area has no reported incidents.,0
-39.209,-76.55399999999923,This area has no reported incidents.,0
-39.209,-76.55299999999923,This area has no reported incidents.,0
-39.209,-76.55199999999923,This area has no reported incidents.,0
-39.209,-76.55099999999922,This area has no reported incidents.,0
-39.209,-76.54999999999922,This area has no reported incidents.,0
-39.209,-76.54899999999921,This area has no reported incidents.,0
-39.209,-76.5479999999992,This area has no reported incidents.,0
-39.209,-76.5469999999992,This area has no reported incidents.,0
-39.209,-76.5459999999992,This area has no reported incidents.,0
-39.209,-76.54499999999919,This area has no reported incidents.,0
-39.209,-76.54399999999919,This area has no reported incidents.,0
-39.209,-76.54299999999918,This area has no reported incidents.,0
-39.209,-76.54199999999918,This area has no reported incidents.,0
-39.209,-76.54099999999917,This area has no reported incidents.,0
-39.209,-76.53999999999917,This area has no reported incidents.,0
-39.209,-76.53899999999916,This area has no reported incidents.,0
-39.209,-76.53799999999916,This area has no reported incidents.,0
-39.209,-76.53699999999915,This area has no reported incidents.,0
-39.209,-76.53599999999915,This area has no reported incidents.,0
-39.209,-76.53499999999914,This area has no reported incidents.,0
-39.209,-76.53399999999914,This area has no reported incidents.,0
-39.209,-76.53299999999913,This area has no reported incidents.,0
-39.209,-76.53199999999913,This area has no reported incidents.,0
