@@ -1,17 +1,17 @@
 <img src  = "https://github.com/aastha2468/spooknav/blob/main/images/spooknav.png">
 
-# spooknav
+# spookynav
 Need help to figure what is the safest way 
 to navigate through the streets during 
-Halloween night? No need to worry! spooknav is here to 
+Halloween night? No need to worry! spookynav is here to 
 help and guide the way!  
 
 ## Background and Goals for Our Project
 Over the past 7 months, we have felt further than ever from our family and neighbors, and we have survived covid-19 lockdowns without thriving. We have seen our younger siblings losing out on childhood experiences like summer camp and school as safety concerns in the community rose. In creating spooknav, we wanted to consider ways to help communities connect again with socially distancing, and visualize ways to alleviate parents’ safety anxieties. We hope that our web app will allow kids to be kids again on Halloween by combining safety data into one comprehensive map of how to stay safe. 
 
-### spooknav combines safety datasets for Baltimore, Maryland, to give parents one easy to read, comprehensive, and visually clear map of locations’ safety, based on comprehensive existing datasets of sex offenders, gun convictions, and existing CCTV cameras.
+### spookynav combines safety datasets for Baltimore, Maryland, to give parents one easy to read, comprehensive, and visually clear map of locations’ safety, based on comprehensive existing datasets of sex offenders, gun convictions, and existing CCTV cameras.
 
-Living in big cities growing up, we ourselves had many Halloween nights limited or cut short as it got too dark to be sure of safety in our neighborhoods. Spooknav allows families to plan ahead to check that their routes are safe.
+Living in big cities growing up, we ourselves had many Halloween nights limited or cut short as it got too dark to be sure of safety in our neighborhoods. Spookynav allows families to plan ahead to check that their routes are safe.
 
 ## Technologies Utilized
 - JavaScript
@@ -32,7 +32,7 @@ Living in big cities growing up, we ourselves had many Halloween nights limited 
 
 ## How it works
 
-spooknav is a web application using the MapBox API. Using spooknav, parents can explore a customized map of the Baltimore area. On the map, they can click on ghost icons to see statistics about sex offenders, gun convictions, and CCTV camera presence in different areas.
+spookynav is a web application using the MapBox API. Using spooknav, parents can explore a customized map of the Baltimore area. On the map, they can click on ghost icons to see statistics about sex offenders, gun convictions, and CCTV camera presence in different areas.
 
 To build this safety map, we examined three datasets, a dataset of sex offenders (https://www.dpscs.state.md.us/onlineservs/sor/sor_listings/pdf_name.pdf), a dataset of gun convictions (https://data.baltimorecity.gov/Public-Safety/Gun-Offenders/aivj-4x23), and a dataset of CCTV cameras in the Baltimore area (https://data.baltimorecity.gov/Public-Safety/CCTV-Locations-Obsolete/hdyb-27ak). We preprocessed, cleaned, and read the data, and for the gun and CCTV data, we were able to pull latitude and longitude coordinates. For the sex offender data, we used a MapQuest key to geocode the string addresses into latitude and longitude.
 
