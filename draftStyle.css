@@ -1,38 +1,45 @@
-
 html {
     scroll-behavior:smooth;
+    background-color: #FFE96D;
+}
+
+h2{
+    color: #FFAA00;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+h3{
+    color: #FFAA00;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-align: center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+li{
+    list-style-type: none;
 }
 
 
 p{
-    font-family: 'Lato',sans-serif;
-    font-size: 16px;
     color: #111;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     font-size: 30px;
     font-weight: 300;
     line-height: 32px;
     margin: 0 0 72px;
     text-align: center;
-}
-
-h2{
-    color: #111;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 275px;
-    font-weight: bold;
-    letter-spacing: -1px;
-    line-height: 1;
-    text-align: center;
-}
-
-
-hr {
-    margin: 15px auto 25px;
-    padding: 0;
-    max-width: 250px;
-    border: 0;
-    border-top: solid 10px;
 }
 
 .logo{
@@ -42,39 +49,32 @@ hr {
 }
 
 .navbar {
-    width: 100%;
-    background-color: #601C75;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #B68626;
     overflow: auto;
 }
 
 /* Navigation links */
 .navbar a {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
     float: left;
-    padding: 20px;
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
-    width: 50%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
-    text-align: center; /* If you want the text to be centered */
-}
-
-
-li{
-    margin: 20px 0;
-    font-size: 60px;
-    width: 60px;
+    color: #f2f2f2;
     text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    border-radius: 50%;
-
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
+
+
+
 
 .container.full-width {
     width: auto;
-}
-
-#about{
-    height: 500px;
 }
 
 a{
@@ -105,17 +105,16 @@ section {
 }
 
 #map {
-    position: sticky;
-    top: 100px;
+    position: absolute;
+    top: 400px;
     left: 500px;
-    bottom: 0;
     width: 50%;
 }
 #menu {
     position: absolute;
     background: #FFC433;
     padding: 20px;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
 }
 #marker {
     background-image: url('https://cdn.discordapp.com/attachments/769265620834320385/769614476693340160/Untitled_Artwork_1.png');
