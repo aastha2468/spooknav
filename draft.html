@@ -1,10 +1,10 @@
-<html>
-<body>
+<!DOCTYPE html>
 
 <head>
-    <link rel = "stylesheet" href="draftStyle.css">
+    <link rel="stylesheet" href="draftStyle.css">
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=4">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>spookynav</title>
 </head>
 
@@ -18,7 +18,6 @@
 
         <li class="nav-item">
             <a class="nav-link" href="#demo">Demo</a>
-
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#More-info">More Info</a>
@@ -26,13 +25,13 @@
     </ul>
 </nav>
 
-
+<body>
 <!--where main information goes -->
-<section class="main" id = "about">
+<section class="main" id="about">
 
     <img src="https://github.com/aastha2468/spooknav/blob/main/images/spookynav.png?raw=true">
 
-    <h2 >About spookynav </h2>
+    <h2>About spookynav </h2>
     <p>
         <br> This project was created for the 2020 Technica hackathon. <br> <br>
         spookynav is a one-stop shop of safety data from datatsets in the Baltimore area. Parents can see the safety rating of different areas based on sex offender data, gun offender data, and number of CCTV cameras. With this inclusive data visualization tool, parents can be assured that their children can enjoy Halloween safely. <br> <br>
@@ -43,20 +42,18 @@
     <h3> Give spookynav a try! </h3>
 
 </section>
-
 <!--where map app goes -->
-<div class = "map">
+<div class="map">
     <script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
     <link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+    <script src="https://d3js.org/d3-dsv.v2.min.js"></script>
+    <script src="https://d3js.org/d3-fetch.v2.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+    <script src="draftJS/.js"></script>
     <div id="map"></div>
     <div id="menu">
-        <input
-                id="streets-v11"
-                type="radio"
-                name="rtoggle"
-                value="streets"
-                checked="checked"
-        />
+        <input id="streets-v11" type="radio" name="rtoggle" value="streets" checked="checked" />
         <label for="streets-v11">streets</label>
         <input id="light-v10" type="radio" name="rtoggle" value="light" />
         <label for="light-v10">light</label>
@@ -67,7 +64,6 @@
         <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" />
         <label for="satellite-v9">satellite</label>
     </div>
-    <script src="draftJS/.js"></script>
 
 </div>
 
@@ -77,10 +73,9 @@
 
     </video>
 </section>
+<section class="main" id="More-info">
 
-<section class="main" id = "More-info">
-
-    <h2 >Check out our Git Repo! </h2>
+    <h2>Check out our Git Repo! </h2>
     <p>
         <br>
         <a href="https://github.com/aastha2468/spooknav">https://github.com/aastha2468/spooknav</a> <br> <br>
@@ -88,6 +83,6 @@
 
 </section>
 
-
 </body>
+
 </html>
