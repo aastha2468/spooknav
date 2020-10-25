@@ -1,3 +1,4 @@
+
 html {
     scroll-behavior:smooth;
     background-color: #FFE96D;
@@ -52,8 +53,15 @@ p{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #B68626;
+    background-color: #FE9A00;
     overflow: auto;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
 }
 
 /* Navigation links */
@@ -67,7 +75,7 @@ p{
     padding: 14px 16px;
     text-decoration: none;
     -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-color: #FFBF5D;
 }
 
 
@@ -104,15 +112,17 @@ section {
     color: #FCA904;
 }
 
-#map {
+#map{
     position: absolute;
-    top: 400px;
-    left: 500px;
-    width: 50%;
+    padding: 1000px;
+    top: 1170px;
+    left: 200px;
+    align: center;
+
 }
 #menu {
     position: absolute;
-    background: #FFC433;
+    background: #FFBF5D;
     padding: 20px;
     font-family: 'Helvetica Neue', sans-serif;
 }
@@ -126,5 +136,5 @@ section {
 }
 
 .mapboxgl-popup {
-    max-width: 400px;
+    max-width: 1000px;
 }
