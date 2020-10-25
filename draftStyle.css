@@ -90,7 +90,7 @@ a{
 }
 
 section {
-    padding: 65px 0;
+    padding: 100px 0;
 }
 
 
@@ -114,9 +114,11 @@ section {
 
 #map{
     position: absolute;
-    padding: 1000px;
-    top: 1170px;
+    padding: 200px;
+    top: 1200px;
+    right:200px;
     left: 200px;
+    width: 30%;
     align: center;
 
 }
